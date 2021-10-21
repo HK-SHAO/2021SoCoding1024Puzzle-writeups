@@ -106,7 +106,6 @@ int main()
     scanf("%d%d",&a,&b);
     node *A=getnew(a);
     node *B=getnew(b);
-    // flag{nihaoa}
     connect(A,B);
     cut(A,B);
     connect(A,B);
