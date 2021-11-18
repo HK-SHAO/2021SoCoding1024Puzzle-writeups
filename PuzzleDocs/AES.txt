@@ -1,0 +1,9 @@
+AES-ECB
+
+wlvAf86kRSKdiCQ4Vbqe/KdTZVBD19o6TXhThxA30ak=
+
+旅行者清理完一处丘丘人营地后，发现了一个特殊的宝箱，你发现宝箱底下刻着奇怪的符号和一行字：“咒语只能念三遍，千万不要念四遍！”
+
+密码：f1aGf1aGf1aGf1aG
+
+flag{S0C0d1nGAeSpUzZlE}

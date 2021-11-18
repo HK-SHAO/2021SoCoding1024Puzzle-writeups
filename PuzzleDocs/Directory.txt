@@ -1,0 +1,3 @@
+cc/marco/FLAG
+
+flag{i844h217xo2lub919i7ndmdo}

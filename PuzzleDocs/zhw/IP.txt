@@ -1,0 +1,7 @@
+这天，小红被绑架了。
+碍于手中工具的有限性，她向自己的好朋友小明发送了一串二进制密码：00111011 10011111 10101111 10010000
+作为小红好朋友的你，该如何通过这串二进制密码，成功找到小红被绑票的所在地呢？
+
+XiaoHong is in [Guangdong] Province [Shenzhen] City 
+
+flag{GuangdongShenzhen}

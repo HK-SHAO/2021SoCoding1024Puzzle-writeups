@@ -1,0 +1,10 @@
+预处理
+gcc -E test.c -o test.i
+编译
+gcc -S test.i -o test.s
+汇编
+gcc -c test.s -o test.o
+链接
+gcc test.o -o test
+
+flag{ThereIsN0Flag-b0ddcce6f47e}

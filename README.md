@@ -1,6 +1,6 @@
 # 2021SoCoding1024Puzzle-writeups
 
-**题解目前尚未公布**，现在还可以参与活动哦 👇
+**题解在Writeup.md，相关资料在PuzzleDocs目录**
 
 ---
 

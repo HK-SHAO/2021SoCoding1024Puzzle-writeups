@@ -1,0 +1,3 @@
+3D文字，旋转画面之后才能看到flag
+
+flag{3dfLaG27nba}
